@@ -7,7 +7,7 @@ import axios from "axios";
 //const API = process.env.API; 
 //const API = "http://localhost:3001";
 
-const API = "https://api-ecotur.herokuapp.com/";
+const API = "https://api-ecotur.herokuapp.com";
 
 
 
