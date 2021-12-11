@@ -1,12 +1,8 @@
 import axios from "axios";
 
-// if (process.env.NODE_ENV != 'production'){
-//     require('dotenv').config();
-// };
 
-//const API = process.env.API; 
+
 //const API = "http://localhost:3001";
-
 const API = "https://api-ecotur.herokuapp.com";
 
 
