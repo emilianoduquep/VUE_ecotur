@@ -98,7 +98,7 @@ export default {
                 alert("Su reserva ha sido hecha con éxito");
                 this.actualiza();
                 this.limpiar();
-                this.$router.push({path:'listado-paquetes'});
+                //this.$router.push({path:'listado-paquetes'});
             } else {
                 alert('Ingrese todos los datos');
             }         
